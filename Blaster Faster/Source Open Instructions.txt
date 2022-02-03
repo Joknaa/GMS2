@@ -1,0 +1,6 @@
+Here is the source file to Blaster Faster
+In order to open this file you will need to open GameMaker Studio and select "Import" from the welcome screen or the File menu. Then selected the Blaster Faster.gmz file to open it.
+
+Thanks for the support!
+
+Ben

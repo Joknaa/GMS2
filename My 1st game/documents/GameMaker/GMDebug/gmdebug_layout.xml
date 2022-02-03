@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Panel Type="eVertical" Width="868" Height="485" Distance="434">
+  <Left>
+    <Panel Type="eNone">
+      <Window Type="Source">
+        <Tabs sel="gml_Object_obg_player_Keyboard_39" />
+      </Window>
+    </Panel>
+  </Left>
+  <Right>
+    <Panel Type="eHorizontal" Width="430" Height="485" Distance="242">
+      <Left>
+        <Panel Type="eNone">
+          <Window Type="Globals" />
+        </Panel>
+      </Left>
+      <Right>
+        <Panel Type="eNone">
+          <Window Type="Locals" />
+        </Panel>
+      </Right>
+    </Panel>
+  </Right>
+</Panel>

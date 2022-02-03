@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPE>
+  <w>35</w>
+  <h>50</h>
+  <name>Default</name>
+  <hasAlpha>True</hasAlpha>
+  <hash>343004019</hash>
+  <xoffset>8</xoffset>
+  <yoffset>0</yoffset>
+  <cropWidth>35</cropWidth>
+  <cropHeight>50</cropHeight>
+  <ow>50</ow>
+  <oh>50</oh>
+  <image>spr_player_moveleft_spr_player_moveleft_0.tpe.png</image>
+</TPE>

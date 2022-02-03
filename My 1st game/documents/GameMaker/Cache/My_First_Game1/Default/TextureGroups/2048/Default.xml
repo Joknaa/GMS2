@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="0">Default_0.png</texture>
+  <tpe x="4" y="4" tpage="Default_0" entry="10">bg_farm__sky_bg_farm__sky.tpe</tpe>
+  <tpe x="4" y="784" tpage="Default_0" entry="9">bg_largfarm_bg_largfarm.tpe</tpe>
+  <tpe x="4" y="1292" tpage="Default_0" entry="8">bg_farm_bg_farm.tpe</tpe>
+  <tpe x="4" y="1620" tpage="Default_0" entry="7">bg_level1_ground_bg_level1_ground.tpe</tpe>
+  <tpe x="1258" y="782" tpage="Default_0" entry="2">spr_player_spr_player_0.tpe</tpe>
+  <tpe x="650" y="1618" tpage="Default_0" entry="1">spr_player_moveleft_spr_player_moveleft_0.tpe</tpe>
+  <tpe x="2" y="1986" tpage="Default_0" entry="3">spr_player_moveright_spr_player_moveright_1.tpe</tpe>
+  <tpe x="1302" y="782" tpage="Default_0" entry="0">spr_player_moveright_spr_player_moveright_0.tpe</tpe>
+  <tpe x="1258" y="838" tpage="Default_0" entry="4">spr_player_moveright_spr_player_moveright_2.tpe</tpe>
+  <tpe x="690" y="1618" tpage="Default_0" entry="5">spr_player_moveleft_spr_player_moveleft_1.tpe</tpe>
+  <tpe x="650" y="1674" tpage="Default_0" entry="6">spr_player_moveleft_spr_player_moveleft_2.tpe</tpe>
+</TextureGroup>
